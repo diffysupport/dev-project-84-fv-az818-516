@@ -1,5 +1,5 @@
 basic:
-    name: 'Wilderman Group'
+    name: Herzog-Sauer
     environments:
         production: 'https://google.com'
         staging: 'https://google.com'
